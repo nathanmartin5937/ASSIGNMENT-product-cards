@@ -20,6 +20,10 @@ body {
    color: white; 
 }
 
+h2 {
+    flex-wrap: wrap;
+}
+
 img {
     height: 300px;
     width: 300px;
