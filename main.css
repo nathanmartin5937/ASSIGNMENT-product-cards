@@ -7,7 +7,7 @@ body {
 }
 
 .card-container {
-    /* box-shadow: red; */
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
