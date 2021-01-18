@@ -26,3 +26,19 @@ img {
     height: 300px;
     width: 300px;
 }
+
+.descriptionText {
+    text-align: center;
+    
+}
+
+.headerText {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    text-size-adjust: 50%;
+}
+
+.boolText {
+    background-color: salmon;
+}
