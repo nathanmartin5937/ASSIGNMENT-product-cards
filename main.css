@@ -7,19 +7,16 @@ body {
 }
 
 .card-container {
-    
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    
 }
 
 .card {
-   
-   margin: 20px;
-   border: 1px solid lightblue;
-   padding: 20px; 
-   color: white; 
+    margin: 20px;
+    border: 3px solid lightblue;
+    padding: 20px; 
+    color: white; 
 }
 
 img {
@@ -33,6 +30,7 @@ img {
 }
 
 .headerText {
+    border: 1px solid lightblue;
     text-align: center;
     margin: 10px;
     padding: 10px;
@@ -40,5 +38,6 @@ img {
 }
 
 .boolText {
-    background-color: salmon;
+    background-color: darkgray;
+    color: yellow;
 }
